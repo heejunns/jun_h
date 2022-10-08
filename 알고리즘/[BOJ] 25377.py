@@ -8,4 +8,4 @@ for i in range(n):
 if result == []:
     print(-1)
 else:
-    print(min(result))
+    print(min(result)) 
