@@ -12,6 +12,3 @@ while True:
         total = -1 # 설탕의 양을 5,3키로 봉지로 가지고 갈 수 없기 때문에 -1 저장 
         break
 print(total) 
-
-
-
