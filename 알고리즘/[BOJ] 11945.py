@@ -9,6 +9,3 @@ for i in range(n):
     result.append("".join(x))
 for k in result:
     print(k)
-    
-
-
