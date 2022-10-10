@@ -9,7 +9,7 @@ if n >= 15:
     x.append(m-2000)
 if n >= 20:
     x.append(m-((m//100)*25))
-print(x)
+
 if x == []:
     print(m)
 elif min(x) < 0 :
