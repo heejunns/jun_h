@@ -9,10 +9,5 @@ public class Java_exercise_6 {
         System.out.println(arrayList); // 기존 그대로 출력
         arrayList.sort(Comparator.reverseOrder());
         System.out.println(arrayList);
-
-
-
-
-
     }
 }
